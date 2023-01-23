@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\CodeExample\BasicPractics\bin\Debug\net7.0\BasicPractice.exe
+C:\Users\hp\source\repos\CodeExample\BasicPractics\bin\Debug\net7.0\BasicPractice.deps.json
+C:\Users\hp\source\repos\CodeExample\BasicPractics\bin\Debug\net7.0\BasicPractice.runtimeconfig.json
+C:\Users\hp\source\repos\CodeExample\BasicPractics\bin\Debug\net7.0\BasicPractice.dll
+C:\Users\hp\source\repos\CodeExample\BasicPractics\bin\Debug\net7.0\BasicPractice.pdb
+C:\Users\hp\source\repos\CodeExample\BasicPractics\obj\Debug\net7.0\BasicPractice.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CodeExample\BasicPractics\obj\Debug\net7.0\BasicPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CodeExample\BasicPractics\obj\Debug\net7.0\BasicPractice.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CodeExample\BasicPractics\obj\Debug\net7.0\BasicPractice.AssemblyInfo.cs
+C:\Users\hp\source\repos\CodeExample\BasicPractics\obj\Debug\net7.0\BasicPractice.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CodeExample\BasicPractics\obj\Debug\net7.0\BasicPractice.dll
+C:\Users\hp\source\repos\CodeExample\BasicPractics\obj\Debug\net7.0\refint\BasicPractice.dll
+C:\Users\hp\source\repos\CodeExample\BasicPractics\obj\Debug\net7.0\BasicPractice.pdb
+C:\Users\hp\source\repos\CodeExample\BasicPractics\obj\Debug\net7.0\BasicPractice.genruntimeconfig.cache
+C:\Users\hp\source\repos\CodeExample\BasicPractics\obj\Debug\net7.0\ref\BasicPractice.dll

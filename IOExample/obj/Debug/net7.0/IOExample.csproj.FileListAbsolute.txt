@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\CodeExample\IOExample\bin\Debug\net7.0\IOExample.exe
+C:\Users\hp\source\repos\CodeExample\IOExample\bin\Debug\net7.0\IOExample.deps.json
+C:\Users\hp\source\repos\CodeExample\IOExample\bin\Debug\net7.0\IOExample.runtimeconfig.json
+C:\Users\hp\source\repos\CodeExample\IOExample\bin\Debug\net7.0\IOExample.dll
+C:\Users\hp\source\repos\CodeExample\IOExample\bin\Debug\net7.0\IOExample.pdb
+C:\Users\hp\source\repos\CodeExample\IOExample\obj\Debug\net7.0\IOExample.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CodeExample\IOExample\obj\Debug\net7.0\IOExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CodeExample\IOExample\obj\Debug\net7.0\IOExample.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CodeExample\IOExample\obj\Debug\net7.0\IOExample.AssemblyInfo.cs
+C:\Users\hp\source\repos\CodeExample\IOExample\obj\Debug\net7.0\IOExample.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CodeExample\IOExample\obj\Debug\net7.0\IOExample.dll
+C:\Users\hp\source\repos\CodeExample\IOExample\obj\Debug\net7.0\refint\IOExample.dll
+C:\Users\hp\source\repos\CodeExample\IOExample\obj\Debug\net7.0\IOExample.pdb
+C:\Users\hp\source\repos\CodeExample\IOExample\obj\Debug\net7.0\IOExample.genruntimeconfig.cache
+C:\Users\hp\source\repos\CodeExample\IOExample\obj\Debug\net7.0\ref\IOExample.dll
