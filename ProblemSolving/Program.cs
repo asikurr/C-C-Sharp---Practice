@@ -1,5 +1,44 @@
 ﻿// Problem Solving 
 
+string s = Console.ReadLine();
+string[] str = s.Split('+');
+int[] num = str.Select(int.Parse).ToArray();
+Array.Sort(num);
+
+string value= "";
+for (int i = 0; i < num.Length; i++)
+{
+   value = value + num[i]+ "+";
+}
+string x = value.Substring(0, value.Length - 1);
+Console.Write(x);
+
+
+
+//A.Petya and Strings
+//string firstString = Console.ReadLine().ToLower();
+//string SecountString = Console.ReadLine().ToLower();
+//if (string.Equals(firstString, SecountString))
+//{
+//    Console.WriteLine(string.Compare(firstString, SecountString));
+//}else if (string.Compare(firstString, SecountString) < 1)
+//{
+//    Console.WriteLine(string.Compare(firstString, SecountString));
+//}else if(string.Compare(firstString, SecountString) > 0)
+//{
+//    Console.WriteLine(string.Compare(firstString, SecountString));
+//}
+
+
+
+
+//A. Domino Piling
+//string mn = Console.ReadLine();
+//string[] valueMn = mn.Split(" ");
+//int[] mAndnSize =  valueMn.Select(int.Parse).ToArray();
+//int mnSize = (mAndnSize[0] * mAndnSize[1])/2;
+//Console.WriteLine(mnSize);
+
 //Bit++
 //int X = 0;
 //string inpVal;
