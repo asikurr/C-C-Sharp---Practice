@@ -1,17 +1,94 @@
 ﻿// Problem Solving 
 
-string s = Console.ReadLine();
-string[] str = s.Split('+');
-int[] num = str.Select(int.Parse).ToArray();
-Array.Sort(num);
 
-string value= "";
-for (int i = 0; i < num.Length; i++)
-{
-   value = value + num[i]+ "+";
-}
-string x = value.Substring(0, value.Length - 1);
-Console.Write(x);
+
+
+
+
+
+
+
+
+
+
+
+//A. Stones on the Table
+//int n = int.Parse(Console.ReadLine());
+//string S = "";
+//for (int i = 0; i < n; i++)
+//{
+//    S += Console.ReadLine();
+//}
+//char[] sValue = S.ToCharArray();
+//int num = 0;
+//int val = 0;
+//int cnt = sValue.Length;
+//for (int j = 0; j< sValue.Length; j++)
+//{
+//    if(sValue.Length > 1)
+//    {
+//        if (char.Equals(sValue[j], j == cnt - 1 ? null : sValue[val += 1]))
+//        {
+//            num = num + 1;
+//        }
+//    }
+//}
+//Console.WriteLine(num);
+
+
+
+
+
+//A. Boy or Girl
+//string inputVal = Console.ReadLine();
+//var inValue = new HashSet<char>(inputVal);
+//int valLenght = inValue.Count;
+//if (valLenght % 2 == 0)
+//{
+//    Console.WriteLine("CHAT WITH HER!"); 
+//}
+//else
+//{
+//    Console.WriteLine("IGNORE HIM!");
+//}
+
+//A. String Task
+//char[] inputVal = Console.ReadLine().ToUpper().ToCharArray();
+//string val = "";
+//foreach (char c in inputVal)
+//{
+//    if (!(char.Equals(c, 'A') || char.Equals(c, 'E') || char.Equals(c, 'I') || char.Equals(c, 'O') || char.Equals(c, 'U') || char.Equals(c, 'Y')))
+//    {
+//        val = val + "." + c;
+//    }
+//}
+//Console.Write(val.ToLower());
+
+
+//A. Word Capitalization
+//using System.Collections.Generic;
+//string inpVal = Console.ReadLine();
+//if (!Char.IsUpper(inpVal , 0))
+//{
+//   char first =  Char.ToUpper(inpVal[0]);
+//   Console.WriteLine(first+ inpVal.Substring(1,inpVal.Length - 1));
+//}
+//else { Console.WriteLine(inpVal); }
+
+
+//A. Helpful Maths
+//string s = Console.ReadLine();
+//string[] str = s.Split('+');
+//int[] num = str.Select(int.Parse).ToArray();
+//Array.Sort(num);
+
+//string value= "";
+//for (int i = 0; i < num.Length; i++)
+//{
+//   value = value + num[i]+ "+";
+//}
+//string x = value.Substring(0, value.Length - 1);
+//Console.Write(x);
 
 
 
