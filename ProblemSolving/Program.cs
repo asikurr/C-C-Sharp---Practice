@@ -1,9 +1,83 @@
 ﻿// Problem Solving 
 
+//A. Bear and Big Brother
+string val = Console.ReadLine();
+string[] valArr = val.Split(' ');
+int[] values = valArr.Select(int.Parse).ToArray();
+int year = 0;
+int limantYear = values[0];
+int bobyear = values[1];
+
+while (!(limantYear > bobyear))
+{
+    year = year + 1;
+    limantYear = limantYear * 3;
+    bobyear = bobyear * 2;
+
+    if (limantYear > bobyear)
+    {
+        Console.WriteLine(year);
+        break;
+    }
+}
 
 
 
 
+
+//A. Soldier and Bananas
+//string val = Console.ReadLine();
+//string[] valArr = val.Split(' ');
+//int[] values = valArr.Select(int.Parse).ToArray();
+//int k = values[0];
+//int n = values[1];
+//int w = values[2];
+//int totalDollar = 0;
+//int dollars = 0;
+//for (int i = 1; i <= w ; i++)
+//{
+//    dollars = k * i;
+//    totalDollar = totalDollar + dollars;
+//}
+//int money = totalDollar - n;
+//if (money < 0)
+//{
+//    Console.WriteLine(0);
+//}
+//else
+//{
+//    Console.WriteLine(money);
+//}
+
+
+
+//A Football 100001000000110101100000
+//string player = Console.ReadLine();
+//char[] pNum = player.ToCharArray();
+//int num = 0;
+//int j = 0;
+//for (int i = 0;i < pNum.Length; i++)
+//{
+//	if (char.Equals(pNum[i], pNum.Length -1 == i? null : pNum[j=j+1] ))
+//	{
+//		num = num + 1;
+//	}
+//	else
+//	{
+//		if (num < 6)
+//		{
+//			num = 0;
+//		}
+//	}
+//}
+//if (num+1 >= 7)
+//{
+//	Console.WriteLine("YES");
+//}
+//else
+//{
+//    Console.WriteLine("NO");
+//}
 
 
 
