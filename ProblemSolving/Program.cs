@@ -1,29 +1,90 @@
 ﻿// Problem Solving 
 
-//A. Bear and Big Brother
-string val = Console.ReadLine();
-string[] valArr = val.Split(' ');
-int[] values = valArr.Select(int.Parse).ToArray();
-int year = 0;
-int limantYear = values[0];
-int bobyear = values[1];
 
-while (!(limantYear > bobyear))
+string s = Console.ReadLine();
+char[] charVal = s.ToCharArray();
+int upperCount = 0;
+for (int i = 0;i < charVal.Length; i++)
 {
-    year = year + 1;
-    limantYear = limantYear * 3;
-    bobyear = bobyear * 2;
-
-    if (limantYear > bobyear)
+    if (char.IsUpper(charVal[i]))
     {
-        Console.WriteLine(year);
-        break;
+        upperCount = upperCount + 1;
     }
 }
+if(upperCount > (charVal.Length - upperCount))
+{
+    Console.WriteLine(s.ToUpper());
+}
+else
+{
+    Console.WriteLine(s.ToLower());
+}
 
+//A. Elephant
+//int n =int.Parse(Console.ReadLine());
+//int m = 0;
+//if (n <= 5)
+//{
+//    Console.WriteLine(1);
+//}
+//else
+//{
+//    m = n % 5;
+//    n = n / 5;
+//    if (m == 0)
+//    {
+//        Console.WriteLine(n);
+//    }else { 
+//        Console.WriteLine(n+1); 
+//    }
+//}
 
+//--------------------------------------------------------------
 
+//A. Wrong Subtraction
+//string val = Console.ReadLine();
+//string[] valArr = val.Split(' ');
+//int[] values = valArr.Select(int.Parse).ToArray();
+//int n = values[0];
+//int k = values[1];
+//for (int i = 1; i <= k; i++)
+//{
 
+//    if (n % 10 == 0)
+//    {
+//        n = n / 10;
+//    }
+//    else
+//    {
+//        n = n - 1;
+//    }
+//}
+//Console.WriteLine(n);
+
+//--------------------------------------------------------
+
+//A. Bear and Big Brother
+//string val = Console.ReadLine();
+//string[] valArr = val.Split(' ');
+//int[] values = valArr.Select(int.Parse).ToArray();
+//int year = 0;
+//int limantYear = values[0];
+//int bobyear = values[1];
+
+//while (!(limantYear > bobyear))
+//{
+//    year = year + 1;
+//    limantYear = limantYear * 3;
+//    bobyear = bobyear * 2;
+
+//    if (limantYear > bobyear)
+//    {
+//        Console.WriteLine(year);
+//        break;
+//    }
+//}
+
+//-----------------------------------------------
 
 //A. Soldier and Bananas
 //string val = Console.ReadLine();
@@ -49,7 +110,7 @@ while (!(limantYear > bobyear))
 //    Console.WriteLine(money);
 //}
 
-
+//----------------------------------------------
 
 //A Football 100001000000110101100000
 //string player = Console.ReadLine();
@@ -79,12 +140,7 @@ while (!(limantYear > bobyear))
 //    Console.WriteLine("NO");
 //}
 
-
-
-
-
-
-
+//------------------------------------------------------
 
 //A. Stones on the Table
 //int n = int.Parse(Console.ReadLine());
@@ -109,9 +165,7 @@ while (!(limantYear > bobyear))
 //}
 //Console.WriteLine(num);
 
-
-
-
+//-------------------------------------------------
 
 //A. Boy or Girl
 //string inputVal = Console.ReadLine();
@@ -126,6 +180,9 @@ while (!(limantYear > bobyear))
 //    Console.WriteLine("IGNORE HIM!");
 //}
 
+//----------------------------------------------
+
+
 //A. String Task
 //char[] inputVal = Console.ReadLine().ToUpper().ToCharArray();
 //string val = "";
@@ -138,6 +195,7 @@ while (!(limantYear > bobyear))
 //}
 //Console.Write(val.ToLower());
 
+//-----------------------------------------------
 
 //A. Word Capitalization
 //using System.Collections.Generic;
@@ -149,6 +207,7 @@ while (!(limantYear > bobyear))
 //}
 //else { Console.WriteLine(inpVal); }
 
+//----------------------------------------------------
 
 //A. Helpful Maths
 //string s = Console.ReadLine();
@@ -164,7 +223,7 @@ while (!(limantYear > bobyear))
 //string x = value.Substring(0, value.Length - 1);
 //Console.Write(x);
 
-
+//---------------------------------------------------------
 
 //A.Petya and Strings
 //string firstString = Console.ReadLine().ToLower();
@@ -180,8 +239,7 @@ while (!(limantYear > bobyear))
 //    Console.WriteLine(string.Compare(firstString, SecountString));
 //}
 
-
-
+//---------------------------------------------------
 
 //A. Domino Piling
 //string mn = Console.ReadLine();
