@@ -1,24 +1,113 @@
 ﻿// Problem Solving 
 
+//A. HQ9+
+//string s = Console.ReadLine();
+//char[] val = s.ToCharArray();
+//string result = "";
+//for (int i = 0; i < val.Length; i++)
+//{
+//    if (char.Equals(val[i], 'H') || char.Equals(val[i], 'Q') || char.Equals(val[i], '9'))
+//    {
+//        result = "YES";
+//        break;
+//    }
+//}
+//if (result == "YES")
+//{
+//    Console.WriteLine("YES");
+//}
+//else
+//{
+//    Console.WriteLine("NO");
+//}
 
-string s = Console.ReadLine();
-char[] charVal = s.ToCharArray();
-int upperCount = 0;
-for (int i = 0;i < charVal.Length; i++)
-{
-    if (char.IsUpper(charVal[i]))
-    {
-        upperCount = upperCount + 1;
-    }
-}
-if(upperCount > (charVal.Length - upperCount))
-{
-    Console.WriteLine(s.ToUpper());
-}
-else
-{
-    Console.WriteLine(s.ToLower());
-}
+//--------------------------------------------------------------
+
+//A. Chat room //ahhellllloou//hlelo//tymbzjyqhymedasloqbq
+//string s = Console.ReadLine();
+//char[] sArray = s.ToCharArray();
+//char[] helloStr = new char[] { 'h', 'e', 'l', 'l', 'o' };
+//string helloVal = "";
+//for(int i = 0;i < helloStr.Length; i++)
+//{
+//    for (int j = 0; j <sArray.Length; j++)
+//    {
+//        if (i > 4)
+//        {
+//            break;
+//        }
+//        else
+//        {
+//            if (char.Equals(helloStr[i], sArray[j]))
+//            {
+//                helloVal = helloVal + helloStr[i];
+//                i++;
+//                if (helloVal == "hello")
+//                {
+//                    break;
+//                }
+//            }
+//        }
+
+//    }
+//}
+//if (helloVal == "hello")
+//{
+//    Console.WriteLine("YES");
+//}
+//else
+//{
+//    Console.WriteLine("NO");
+//}
+
+//---------------------------------------------------
+
+//A. Tram
+//using System;
+//int n  = int.Parse(Console.ReadLine());
+//int[][] jagar = new int[n][];
+//int i = 0;
+//while (i < n)
+//{
+//    string val = Console.ReadLine();
+//    string[] intVal = val.Split(" ");
+//    jagar[i] = intVal.Select(int.Parse).ToArray(); ;
+//    i++;
+//}
+//int capacity = 0;
+//int capacityMax = 0;
+//for(int p=0; p<n; p++)
+//{
+//        capacityMax = capacityMax + 0;
+//        capacity = capacity - jagar[p][0];
+//        capacity = capacity + jagar[p][1];
+//        capacityMax = Math.Max(capacityMax, capacity);
+//}
+//Console.WriteLine(capacityMax);
+
+//-------------------------------------------
+
+//A. Word
+//string s = Console.ReadLine();
+//char[] charVal = s.ToCharArray();
+//int upperCount = 0;
+//for (int i = 0;i < charVal.Length; i++)
+//{
+//    if (char.IsUpper(charVal[i]))
+//    {
+//        upperCount = upperCount + 1;
+//    }
+//}
+//if(upperCount > (charVal.Length - upperCount))
+//{
+//    Console.WriteLine(s.ToUpper());
+//}
+//else
+//{
+//    Console.WriteLine(s.ToLower());
+//}
+
+//---------------------------------------------------
 
 //A. Elephant
 //int n =int.Parse(Console.ReadLine());
