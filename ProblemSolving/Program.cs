@@ -1,5 +1,46 @@
 ﻿// Problem Solving 
 
+//A.Hulk
+//int n = int.Parse(Console.ReadLine());
+//string hulkBehave = "";
+//for (int i = 1; i <= n; i++)
+//{
+
+//    if(i % 2 != 0)
+//    {
+//        if (i == 1 && n == 1)
+//        {
+//            hulkBehave += "I hate it";
+//        }else if(i == n)
+//        {
+//            hulkBehave += "I hate it";
+//        }
+//        else
+//        {
+//            hulkBehave += "I hate that ";
+//        }
+
+//    }
+//    else
+//    {
+//        if (i == 2 && n == 2)
+//        {
+//            hulkBehave += "I love it";
+//        }
+//        else if (i == n)
+//        {
+//            hulkBehave += "I love it";
+//        }
+//        else
+//        {
+//            hulkBehave += "I love that ";
+//        }
+//    }
+//}
+//Console.WriteLine(hulkBehave);
+
+//-----------------------------------------------
+
 //A. HQ9+
 //string s = Console.ReadLine();
 //char[] val = s.ToCharArray();
@@ -304,10 +345,10 @@
 //int[] num = str.Select(int.Parse).ToArray();
 //Array.Sort(num);
 
-//string value= "";
+//string value = "";
 //for (int i = 0; i < num.Length; i++)
 //{
-//   value = value + num[i]+ "+";
+//    value = value + num[i] + "+";
 //}
 //string x = value.Substring(0, value.Length - 1);
 //Console.Write(x);
@@ -320,10 +361,12 @@
 //if (string.Equals(firstString, SecountString))
 //{
 //    Console.WriteLine(string.Compare(firstString, SecountString));
-//}else if (string.Compare(firstString, SecountString) < 1)
+//}
+//else if (string.Compare(firstString, SecountString) < 1)
 //{
 //    Console.WriteLine(string.Compare(firstString, SecountString));
-//}else if(string.Compare(firstString, SecountString) > 0)
+//}
+//else if (string.Compare(firstString, SecountString) > 0)
 //{
 //    Console.WriteLine(string.Compare(firstString, SecountString));
 //}
@@ -362,6 +405,24 @@
 //{0,0,1,0,0 },
 //{0,0,0,0,0 },
 //{0,0,0,0,0 }};
+//=========================
+//int z = 0; int g = 0;
+
+//for (int i = 0; i < 5; i++)
+//{
+//    string x = Console.ReadLine().Trim();
+//    string[] y = x.Split(" ");
+
+
+//    for (int j = 0; j < 5; j++)
+//    {
+//        g = int.Parse(y[j]);
+
+//        if (g == 1) { z = Math.Abs(i - 2) + Math.Abs(j - 2); }
+//    }
+//}
+//Console.WriteLine(z);
+//=========================
 //int[][] jagar = new int[5][];
 //int i = 0;
 //while (i < 5)

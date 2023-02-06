@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\CodeExample\StringExample\bin\Debug\net7.0\StringExample.exe
+C:\Users\hp\source\repos\CodeExample\StringExample\bin\Debug\net7.0\StringExample.deps.json
+C:\Users\hp\source\repos\CodeExample\StringExample\bin\Debug\net7.0\StringExample.runtimeconfig.json
+C:\Users\hp\source\repos\CodeExample\StringExample\bin\Debug\net7.0\StringExample.dll
+C:\Users\hp\source\repos\CodeExample\StringExample\bin\Debug\net7.0\StringExample.pdb
+C:\Users\hp\source\repos\CodeExample\StringExample\obj\Debug\net7.0\StringExample.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\CodeExample\StringExample\obj\Debug\net7.0\StringExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\CodeExample\StringExample\obj\Debug\net7.0\StringExample.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\CodeExample\StringExample\obj\Debug\net7.0\StringExample.AssemblyInfo.cs
+C:\Users\hp\source\repos\CodeExample\StringExample\obj\Debug\net7.0\StringExample.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\CodeExample\StringExample\obj\Debug\net7.0\StringExample.dll
+C:\Users\hp\source\repos\CodeExample\StringExample\obj\Debug\net7.0\refint\StringExample.dll
+C:\Users\hp\source\repos\CodeExample\StringExample\obj\Debug\net7.0\StringExample.pdb
+C:\Users\hp\source\repos\CodeExample\StringExample\obj\Debug\net7.0\StringExample.genruntimeconfig.cache
+C:\Users\hp\source\repos\CodeExample\StringExample\obj\Debug\net7.0\ref\StringExample.dll
