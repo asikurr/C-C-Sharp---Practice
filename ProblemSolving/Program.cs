@@ -1,4 +1,21 @@
 ﻿// Problem Solving 
+//A. Beautyful Year
+//int n = int.Parse(Console.ReadLine());
+//for (int i = 1001;i<9000; i++)
+//{
+//    n++;
+//    int first = n / 1000;
+//    int Second = (n / 100) % 10;
+//    int third = (n / 10) % 10;
+//    int four = n % 10;
+//    if(!(first == Second || first == third || first == four || Second == third || Second == four || third == four))
+//    {
+//        Console.WriteLine(n);
+//        break;
+//    }
+//}
+
+//-------------------------------------------------------------
 
 //A.Hulk
 //int n = int.Parse(Console.ReadLine());
