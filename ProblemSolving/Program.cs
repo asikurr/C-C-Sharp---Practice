@@ -1,4 +1,134 @@
 ﻿// Problem Solving 
+//A. Twins
+int n = int.Parse(Console.ReadLine());
+int[] arr= new int[n];
+int j = 0;
+foreach (string s in Console.ReadLine().Split(" "))
+{
+    arr[j] = int.Parse(s);
+    j++;
+}
+int total = 0;
+int half = 0;
+for (int i = 0; i < arr.Length; i++)
+{
+    total+= arr[i];
+}
+half = total / 2;
+int count = 0;
+Array.Sort(arr);
+int sum2 = 0;
+for (int i = arr.Length - 1; i >= 0; i--)
+{
+    sum2 += arr[i];
+    count = count + 1;
+    if (sum2 > half)
+    {
+        Console.WriteLine(count);
+        return;
+    }
+}
+
+
+
+
+//---------------------------------------------------
+
+//A. Nearly Lucky Number
+//string number = Console.ReadLine();
+//char[] arry = number.ToString().ToArray();
+//int count = 0;
+//for (int i = 0;i < arry.Length; i++)
+//{
+//	if (arry[i] == '4' || arry[i] =='7')
+//	{
+//		count += 1;
+//	}
+//}
+//if (count == 4|| count == 7)
+//{
+//	Console.WriteLine("YES");
+//}
+//else
+//{
+//    Console.WriteLine("NO");
+//}
+
+//-----------------------------------------------
+
+//A. Lucky Division
+//int n = int.Parse(Console.ReadLine());
+//int firstLucy = 4;
+//int secendLucy = 7;
+//if( n % 4 == 0 || n % 7 == 0 || n % 44 == 0 || n % 77 == 0 || n % 47 == 0 || n % 74 == 0 ||
+//    n % 444 == 0 || n % 447 == 0 || n % 474 == 0 || n % 744 == 0 || n % 777 == 0 || n % 747 == 0 ||
+//    n % 477 == 0 || n % 774 == 0
+//    )
+//{
+//    Console.WriteLine("YES");
+//}else
+//{
+//    Console.WriteLine("NO");
+//}
+
+//-------------------------------------------------------
+
+//matrix imput
+//int n = int.Parse(Console.ReadLine());
+
+//int[,] arr = new int[n,n];
+//int i = 0;
+//int j = 0;
+//for (i = 0; i < n; i++)
+//{
+//    j = 0;
+//    foreach (string s in Console.ReadLine().Split(" "))
+//    {
+//        arr[i, j] = int.Parse(s);
+//        j++;
+//    }
+//}
+
+//--------------------------------------------------------
+
+//int n = int.Parse(Console.ReadLine());
+//int[] arr = new int[n];
+//int i = 0;
+//foreach (string s in Console.ReadLine().Split(" "))
+//{
+//    arr[i] = int.Parse(s);
+//    i++;
+//}
+//Array.Sort(arr);
+//if (arr[arr.Length - 1] == 1)
+//{
+//    Console.WriteLine("HARD");
+//}
+//else
+//{
+//    Console.WriteLine("EASY");
+//}
+
+
+
+//a. In Search of an Easy Problem
+//int n = int.Parse(Console.ReadLine());
+//int[] arr = new int[n];
+//for (int i = 0;i < n; i++)
+//{
+//    arr[i] = int.Parse(Console.ReadLine());
+//}
+//Array.Sort(arr);
+//if (arr[arr.Length-1] == 1)
+//{
+//    Console.WriteLine("HARD");
+//}
+//else
+//{
+//    Console.WriteLine("EASY");
+//}
+
+
 //A. Beautyful Year
 //int n = int.Parse(Console.ReadLine());
 //for (int i = 1001;i<9000; i++)
