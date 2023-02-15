@@ -1,33 +1,70 @@
 ﻿// Problem Solving 
-//A. Twins
+
+//A. Presents
 int n = int.Parse(Console.ReadLine());
-int[] arr= new int[n];
-int j = 0;
-foreach (string s in Console.ReadLine().Split(" "))
+int[] p = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
+string values = "";
+int v = 1;
+
+for (int i = 0; i < p.Length; i++)
 {
-    arr[j] = int.Parse(s);
-    j++;
-}
-int total = 0;
-int half = 0;
-for (int i = 0; i < arr.Length; i++)
-{
-    total+= arr[i];
-}
-half = total / 2;
-int count = 0;
-Array.Sort(arr);
-int sum2 = 0;
-for (int i = arr.Length - 1; i >= 0; i--)
-{
-    sum2 += arr[i];
-    count = count + 1;
-    if (sum2 > half)
+   if( p[i] == v)
     {
-        Console.WriteLine(count);
-        return;
+        values += i+1 + " ";
+        if( v == p.Length) { break; }
+        v++;
+        i = -1;
     }
 }
+Console.WriteLine(values.Trim());
+
+//-----------------------------------------------
+
+//A.George and Accommodation
+//int n = int.Parse(Console.ReadLine());
+//string[] p;
+//int count = 0;
+//for (int i = 0; i < n; i++)
+//{
+//    p = Console.ReadLine().Split(" ");
+//    if ((int.Parse(p[0]) < int.Parse(p[1])) && (int.Parse(p[0])+1 < int.Parse(p[1])))
+//    {
+//        count = count + 1;
+//    }
+//}
+//Console.WriteLine(count);
+
+//--------------------------------------------------
+
+//A. Twins
+//int n = int.Parse(Console.ReadLine());
+//int[] arr= new int[n];
+//int j = 0;
+//foreach (string s in Console.ReadLine().Split(" "))
+//{
+//    arr[j] = int.Parse(s);
+//    j++;
+//}
+//int total = 0;
+//int half = 0;
+//for (int i = 0; i < arr.Length; i++)
+//{
+//    total+= arr[i];
+//}
+//half = total / 2;
+//int count = 0;
+//Array.Sort(arr);
+//int sum2 = 0;
+//for (int i = arr.Length - 1; i >= 0; i--)
+//{
+//    sum2 += arr[i];
+//    count = count + 1;
+//    if (sum2 > half)
+//    {
+//        Console.WriteLine(count);
+//        return;
+//    }
+//}
 
 
 
