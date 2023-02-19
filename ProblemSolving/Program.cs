@@ -1,22 +1,81 @@
 ﻿// Problem Solving 
-
-//A. Presents
-int n = int.Parse(Console.ReadLine());
-int[] p = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
-string values = "";
-int v = 1;
-
-for (int i = 0; i < p.Length; i++)
+//A. Even Odds
+using System.Collections.Generic;
+//A. Ultra-Fast Mathematician
+string n = Console.ReadLine();
+string m = Console.ReadLine();
+string result = "";
+for (int i = 0; i < n.Length; i++)
 {
-   if( p[i] == v)
-    {
-        values += i+1 + " ";
-        if( v == p.Length) { break; }
-        v++;
-        i = -1;
-    }
+	if (n[i] == m[i])
+	{
+		result = result + 0;
+	}
+	else
+	{
+		result = result + 1;
+	}
 }
-Console.WriteLine(values.Trim());
+Console.WriteLine(result);
+
+//--------------------------------------------
+
+//var input = Console.ReadLine().Split();
+//var n = Convert.ToInt64(input[0]);
+//var k = Convert.ToInt64(input[1]);
+//var c = 0L;
+
+//if (n % 2 == 0)
+//{
+//    c = n / 2;
+//}
+//else
+//{
+//    c = (n + 1) / 2;
+//}
+//if (k <= c)
+//{
+//    Console.WriteLine((k * 2) - 1);
+//}
+
+//else
+//{
+//    Console.WriteLine((k - c) * 2);
+//}
+
+//-----------------------------------------------
+
+//A. Magnets
+//int n = int.Parse(Console.ReadLine()!);
+//int a, b = 0, k = 0;
+//for (int i = 0; i < n; i++)
+//{
+//    a = int.Parse(Console.ReadLine()!);
+
+//    if (a != b)
+//        k++;
+//    b = a;
+//}
+//Console.WriteLine(k);
+
+////---------------------------------------------
+
+////A. Presents
+////int n = int.Parse(Console.ReadLine());
+//int[] p = Console.ReadLine().Split(" ").Select(int.Parse).ToArray();
+//string values = "";
+//int v = 1;
+
+//for (int i = 0; i < p.Length; i++)
+//{
+//   if( p[i] == v)
+//    {
+//        values += i+1 + " ";
+//        if( v == p.Length) { Console.WriteLine(values.Trim()); return; }
+//        v++;
+//        i = -1;
+//    }
+//}
 
 //-----------------------------------------------
 
