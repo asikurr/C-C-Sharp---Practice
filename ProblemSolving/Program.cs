@@ -1,25 +1,65 @@
 ﻿// Problem Solving 
-//A. Even Odds
+
+using System;
 using System.Collections.Generic;
+//A. Calculating Function
+
+//long n = long.Parse(Console.ReadLine()!);
+//long sum = 0;
+//if (n % 2 == 0)
+//{
+//    sum = n / 2;
+//}else
+//{
+//    sum = (-n / 2)-1;
+//}
+//Console.WriteLine(sum);
+
+//------------------------------------
+
+//B. Drinks
+//int num = int.Parse(Console.ReadLine());
+//int val = 0;
+//var aa ="";
+//foreach (string s in Console.ReadLine().Split(" "))
+//{
+//    val = val + Convert.ToInt32(s);
+//}
+//double n =(double) val / num;
+//double nn = Math.Round(n, 12);
+//int index = nn.ToString().IndexOf(".");
+//if (index>0)
+//{
+//    aa = nn.ToString().PadRight((index + 1) + 12, '0');
+//}
+//else
+//{
+//    aa = n.ToString() + "."+"000000000000";
+//}
+//Console.WriteLine(aa);
+
+//-------------------------------------
+
 //A. Ultra-Fast Mathematician
-string n = Console.ReadLine();
-string m = Console.ReadLine();
-string result = "";
-for (int i = 0; i < n.Length; i++)
-{
-	if (n[i] == m[i])
-	{
-		result = result + 0;
-	}
-	else
-	{
-		result = result + 1;
-	}
-}
-Console.WriteLine(result);
+//string n = Console.ReadLine();
+//string m = Console.ReadLine();
+//string result = "";
+//for (int i = 0; i < n.Length; i++)
+//{
+//	if (n[i] == m[i])
+//	{
+//		result = result + 0;
+//	}
+//	else
+//	{
+//		result = result + 1;
+//	}
+//}
+//Console.WriteLine(result);
 
 //--------------------------------------------
 
+//A. Even Odds
 //var input = Console.ReadLine().Split();
 //var n = Convert.ToInt64(input[0]);
 //var k = Convert.ToInt64(input[1]);
