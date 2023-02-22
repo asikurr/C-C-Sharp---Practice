@@ -2,8 +2,46 @@
 
 using System;
 using System.Collections.Generic;
-//A. Calculating Function
 
+//A. Gravity Flip
+//Console.ReadLine();
+//var num  = Console.ReadLine().Split().Select(int.Parse).OrderBy(a=>a).ToList();
+//Console.WriteLine(string.Join(" ", num));
+//----------------------------------------------
+//int n = int.Parse(Console.ReadLine());
+//int[] values = new int[n];
+//int count = 0;
+//string result = "";
+//foreach(var s in Console.ReadLine().Split(" "))
+//{
+//    values[count++] = int.Parse(s);
+//}
+//Array.Sort(values);
+//for (int i = 0; i < values.Length; i++)
+//{
+//    result += values[i] + " ";
+//}
+//Console.WriteLine(result.TrimEnd());
+//---------------------------------------------------
+
+//A. Is your horseshoe on the other hoof?
+//string[] s = Console.ReadLine().Split(" ");
+//int count = 0;
+//string color = "";
+//Array.Sort(s);
+//for (int i = 0; i < s.Length; i++)
+//{
+//	if (s[i] == color)
+//	{
+//		count = count + 1;
+//	}
+//	color= s[i];
+//}
+//Console.WriteLine(count);
+
+//--------------------------------------------
+
+//A. Calculating Function
 //long n = long.Parse(Console.ReadLine()!);
 //long sum = 0;
 //if (n % 2 == 0)
