@@ -3,6 +3,24 @@
 using System;
 using System.Collections.Generic;
 
+
+//A. I Wanna Be the Guy
+//int n= int.Parse(Console.ReadLine());
+//var X = Console.ReadLine().Split().Skip(1);
+//var Y = Console.ReadLine().Split().Skip(1);
+//var arr = X.Concat(Y).Select(int.Parse).Distinct();
+
+//	if (arr.Count() == n)
+//    { 
+//    Console.WriteLine("I become the guy.");
+//	}
+//	else
+//	{
+//        Console.WriteLine("Oh, my keyboard!");
+//    }
+
+//--------------------------------------------------
+
 //A. Gravity Flip
 //Console.ReadLine();
 //var num  = Console.ReadLine().Split().Select(int.Parse).OrderBy(a=>a).ToList();
