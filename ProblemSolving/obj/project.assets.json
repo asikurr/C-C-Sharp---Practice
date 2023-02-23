@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\CodeExample\\ProblemSolving\\ProblemSolving.csproj",
+      "projectUniqueName": "H:\\csharp project\\C-C-Sharp---Practice\\ProblemSolving\\ProblemSolving.csproj",
       "projectName": "ProblemSolving",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\CodeExample\\ProblemSolving\\ProblemSolving.csproj",
+      "projectPath": "H:\\csharp project\\C-C-Sharp---Practice\\ProblemSolving\\ProblemSolving.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\CodeExample\\ProblemSolving\\obj\\",
+      "outputPath": "H:\\csharp project\\C-C-Sharp---Practice\\ProblemSolving\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

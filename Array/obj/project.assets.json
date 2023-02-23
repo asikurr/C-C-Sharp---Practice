@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\CodeExample\\Array\\Array.csproj",
+      "projectUniqueName": "H:\\csharp project\\C-C-Sharp---Practice\\Array\\Array.csproj",
       "projectName": "Array",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\CodeExample\\Array\\Array.csproj",
+      "projectPath": "H:\\csharp project\\C-C-Sharp---Practice\\Array\\Array.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\CodeExample\\Array\\obj\\",
+      "outputPath": "H:\\csharp project\\C-C-Sharp---Practice\\Array\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

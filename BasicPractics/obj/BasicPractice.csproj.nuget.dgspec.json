@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hp\\source\\repos\\CodeExample\\BasicPractics\\BasicPractice.csproj": {}
+    "H:\\csharp project\\C-C-Sharp---Practice\\BasicPractics\\BasicPractice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hp\\source\\repos\\CodeExample\\BasicPractics\\BasicPractice.csproj": {
+    "H:\\csharp project\\C-C-Sharp---Practice\\BasicPractics\\BasicPractice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\CodeExample\\BasicPractics\\BasicPractice.csproj",
+        "projectUniqueName": "H:\\csharp project\\C-C-Sharp---Practice\\BasicPractics\\BasicPractice.csproj",
         "projectName": "BasicPractice",
-        "projectPath": "C:\\Users\\hp\\source\\repos\\CodeExample\\BasicPractics\\BasicPractice.csproj",
+        "projectPath": "H:\\csharp project\\C-C-Sharp---Practice\\BasicPractics\\BasicPractice.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hp\\source\\repos\\CodeExample\\BasicPractics\\obj\\",
+        "outputPath": "H:\\csharp project\\C-C-Sharp---Practice\\BasicPractics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

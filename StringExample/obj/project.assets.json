@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\CodeExample\\StringExample\\StringExample.csproj",
+      "projectUniqueName": "H:\\csharp project\\C-C-Sharp---Practice\\StringExample\\StringExample.csproj",
       "projectName": "StringExample",
-      "projectPath": "C:\\Users\\hp\\source\\repos\\CodeExample\\StringExample\\StringExample.csproj",
+      "projectPath": "H:\\csharp project\\C-C-Sharp---Practice\\StringExample\\StringExample.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hp\\source\\repos\\CodeExample\\StringExample\\obj\\",
+      "outputPath": "H:\\csharp project\\C-C-Sharp---Practice\\StringExample\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",
