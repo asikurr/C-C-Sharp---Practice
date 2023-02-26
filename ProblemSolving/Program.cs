@@ -3,10 +3,51 @@
 using System;
 using System.Collections.Generic;
 
+//A. Arrival of the General
+int n = int.Parse(Console.ReadLine());
+string[] val = Console.ReadLine().Split(" ");
+int max = 0; // Array.IndexOf(val, val.Max());
+int min = 101; // Array.IndexOf(val, val.Min());
+int maxin = 0;
+int minin = 0;
 
+for (int i = 0; i < val.Length; i++)
+{
+	if (int.Parse(val[i]) > max)
+	{
+        max = int.Parse(val[i]);
+        maxin = i;
+	}
+
+    if ( int.Parse(val[i]) <= min)
+    {
+        min = int.Parse(val[i]);
+        minin = i;
+    }
+} 
+if(maxin > minin)
+{
+    minin++;
+}
+Console.WriteLine((maxin + (val.Length - 1)) - minin);
+//A. Expression
+//int val1 = int.Parse(Console.ReadLine());
+//int val2 = int.Parse(Console.ReadLine());
+//int val3 = int.Parse(Console.ReadLine());
+//int max1 = Math.Max(val1+ val2* val3, val1 *(val2 + val3));
+//int max2 = Math.Max(val1 * val2 * val3, (val1 + val2) * val3);
+//int max3 = val1 + val2 + val3;
+//if(max3 > Math.Max(max1, max2))
+//{
+//    Console.WriteLine(max3);
+//}
+//else
+//{
+//    Console.WriteLine(Math.Max(max1, max2));
+//}
+
+//----------------------------------------------------
 //A. I Wanna Be the Guy
-
-
 //int n= int.Parse(Console.ReadLine());
 //var X = Console.ReadLine().Split().Skip(1);
 //var Y = Console.ReadLine().Split().Skip(1);
