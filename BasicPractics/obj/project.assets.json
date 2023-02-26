@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\csharp project\\C-C-Sharp---Practice\\BasicPractics\\BasicPractice.csproj",
+      "projectUniqueName": "C:\\Users\\hp\\source\\repos\\C-C-Sharp---Practice\\BasicPractics\\BasicPractice.csproj",
       "projectName": "BasicPractice",
-      "projectPath": "H:\\csharp project\\C-C-Sharp---Practice\\BasicPractics\\BasicPractice.csproj",
+      "projectPath": "C:\\Users\\hp\\source\\repos\\C-C-Sharp---Practice\\BasicPractics\\BasicPractice.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "H:\\csharp project\\C-C-Sharp---Practice\\BasicPractics\\obj\\",
+      "outputPath": "C:\\Users\\hp\\source\\repos\\C-C-Sharp---Practice\\BasicPractics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

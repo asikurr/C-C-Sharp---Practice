@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\csharp project\\C-C-Sharp---Practice\\IOExample\\IOExample.csproj": {}
+    "C:\\Users\\hp\\source\\repos\\C-C-Sharp---Practice\\IOExample\\IOExample.csproj": {}
   },
   "projects": {
-    "H:\\csharp project\\C-C-Sharp---Practice\\IOExample\\IOExample.csproj": {
+    "C:\\Users\\hp\\source\\repos\\C-C-Sharp---Practice\\IOExample\\IOExample.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\csharp project\\C-C-Sharp---Practice\\IOExample\\IOExample.csproj",
+        "projectUniqueName": "C:\\Users\\hp\\source\\repos\\C-C-Sharp---Practice\\IOExample\\IOExample.csproj",
         "projectName": "IOExample",
-        "projectPath": "H:\\csharp project\\C-C-Sharp---Practice\\IOExample\\IOExample.csproj",
+        "projectPath": "C:\\Users\\hp\\source\\repos\\C-C-Sharp---Practice\\IOExample\\IOExample.csproj",
         "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-        "outputPath": "H:\\csharp project\\C-C-Sharp---Practice\\IOExample\\obj\\",
+        "outputPath": "C:\\Users\\hp\\source\\repos\\C-C-Sharp---Practice\\IOExample\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hp\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicPractice", "BasicPract
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProblemSolving", "ProblemSolving\ProblemSolving.csproj", "{648A2602-4CAA-4B01-865A-7B22D35B5001}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringExample", "StringExample\StringExample.csproj", "{17DB9B6F-00EF-435E-A94D-DBAF27AAD563}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringExample", "StringExample\StringExample.csproj", "{17DB9B6F-00EF-435E-A94D-DBAF27AAD563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "matrixTransit", "matrixTransit\matrixTransit.csproj", "{5B0585C7-A66F-422D-912A-482497D220A3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{17DB9B6F-00EF-435E-A94D-DBAF27AAD563}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{17DB9B6F-00EF-435E-A94D-DBAF27AAD563}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{17DB9B6F-00EF-435E-A94D-DBAF27AAD563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B0585C7-A66F-422D-912A-482497D220A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B0585C7-A66F-422D-912A-482497D220A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B0585C7-A66F-422D-912A-482497D220A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B0585C7-A66F-422D-912A-482497D220A3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
