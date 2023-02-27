@@ -2,34 +2,119 @@
 
 using System;
 using System.Collections.Generic;
+using System.Globalization;
+
+
+
+//A. Pangram
+//int n = int.Parse(Console.ReadLine());
+//string s = Console.ReadLine().ToLower();
+//string pangram = "";//abcdefghijklmnopqrstuvwxyz
+
+//if (n < 26)
+//{
+//    Console.WriteLine("NO");
+//    return;
+//}
+//else
+//{
+//    for (int i = 0; i < s.Length; i++)
+//    {
+//        if (!pangram.Contains(s[i]))
+//        {
+//            pangram += s[i];
+//            if (pangram.Length == 26)
+//            {
+//                Console.WriteLine("YES");
+//                return;
+//            }
+//        }
+//    }
+//}
+//Console.WriteLine("NO");
+
+//-------------------------------------
+
+// Dubstep
+//var val = Console.ReadLine();
+//string ab = val.Replace("WUB"," ");
+//Console.Write(ab.Trim());
+
+//-----------------------------------------------
+
+//A. Divisibility Problem
+//int n = int.Parse(Console.ReadLine());
+//for (int i = 0; i < n; i++)
+//{
+//    string[] ab = Console.ReadLine().Split();
+//    var val = int.Parse(ab[0]) % int.Parse(ab[1]);
+//    if (val == 0)
+//    {
+//        Console.WriteLine(0);
+//    }
+//    else
+//    {
+//        Console.WriteLine(int.Parse(ab[1]) - val);
+//    }
+//}
+//int n = int.Parse(Console.ReadLine());
+
+//int[,] ab = new int[n, 2];
+//int i = 0;
+//int j = 0;
+//for (i = 0; i < n; i++)
+//{
+//    j = 0;
+//    foreach (string s in Console.ReadLine().Split(" "))
+//    {
+//        ab[i, j] = int.Parse(s);
+//        j++;
+//    }
+//}
+//for (int m = 0; m < n; m++)
+//{
+//    var val = ab[m,0] % ab[m,1];
+//    if (val == 0)
+//    {
+//        Console.WriteLine(0);
+//    }
+//    else
+//    {
+//        Console.WriteLine(ab[m,1] - val);
+//    }
+//}
+
 
 //A. Arrival of the General
-int n = int.Parse(Console.ReadLine());
-string[] val = Console.ReadLine().Split(" ");
-int max = 0; // Array.IndexOf(val, val.Max());
-int min = 101; // Array.IndexOf(val, val.Min());
-int maxin = 0;
-int minin = 0;
+//int n = int.Parse(Console.ReadLine());
+//string[] val = Console.ReadLine().Split(" ");
+//int max = 0;
+//int min = 101;
+//int maxin = 0;
+//int minin = 0;
 
-for (int i = 0; i < val.Length; i++)
-{
-	if (int.Parse(val[i]) > max)
-	{
-        max = int.Parse(val[i]);
-        maxin = i;
-	}
+//for (int i = 0; i < val.Length; i++)
+//{
+//    if (int.Parse(val[i]) > max)
+//    {
+//        max = int.Parse(val[i]);
+//        maxin = i;
+//    }
 
-    if ( int.Parse(val[i]) <= min)
-    {
-        min = int.Parse(val[i]);
-        minin = i;
-    }
-} 
-if(maxin > minin)
-{
-    minin++;
-}
-Console.WriteLine((maxin + (val.Length - 1)) - minin);
+//    if (int.Parse(val[i]) <= min)
+//    {
+//        min = int.Parse(val[i]);
+//        minin = i;
+//    }
+//}
+//if (maxin > minin)
+//{
+//    minin++;
+//}
+//Console.WriteLine((maxin + (val.Length - 1)) - minin);
+
+//------------------------------------------------
+
 //A. Expression
 //int val1 = int.Parse(Console.ReadLine());
 //int val2 = int.Parse(Console.ReadLine());
