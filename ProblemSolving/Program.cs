@@ -1,10 +1,81 @@
 ﻿// Problem Solving 
 
+using Microsoft.VisualBasic;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
 
 
+//A - Games
+//int num = int.Parse(Console.ReadLine());
+
+//int[,] ab = new int[num, 2];
+//int i = 0;
+//int j = 0;
+//for (i = 0; i < num; i++)
+//{
+//    j = 0;
+//    foreach (string s in Console.ReadLine().Split(" "))
+//    {
+//        ab[i, j] = int.Parse(s);
+//        j++;
+//    }
+//}
+//int count = 0;
+//for (int m= 0; m < num; m++)
+//{
+//    for (int n = 0; n < num; n++)
+//    {
+//        if (ab[m,0] == ab[n,1])
+//        {
+//            count++;
+//        }
+//    }
+//}
+//Console.WriteLine(count);
+
+//-------------------------------------------------------
+
+//A. IQ test
+//int n = int.Parse(Console.ReadLine());
+//string[] num = Console.ReadLine().Split(" "); //.Select(int.Parse).ToArray();
+//int evencount = 0;
+//int evencountIndex = 0;
+//int oddcount = 0;
+//int oddcountIndex = 0;
+//for (int i = 0; i < num.Length; i++)
+//{
+//    if (int.Parse(num[i]) % 2 == 0)
+//    {
+//        evencount++;
+//        evencountIndex = Array.IndexOf(num, num[i]);
+//    }
+//    else
+//    {
+//        oddcount++;
+//        oddcountIndex = Array.IndexOf(num, num[i]);
+//    }
+//}
+//if (evencount > oddcount) { Console.WriteLine(oddcountIndex + 1); } else { Console.WriteLine(evencountIndex + 1); };
+
+//-----------------------------------------------------
+
+//A. cAPS lOCK
+//string s = Console.ReadLine();
+//if (s.Equals(s.ToUpper()))
+//{
+//    Console.WriteLine(s.ToLower());
+//}
+//else if (s[1..].ToUpper() == s[1..])
+//{
+//    Console.WriteLine(s.Substring(0, 1).ToUpper() + s[1..].ToLower());
+//}
+//else
+//{
+//    Console.WriteLine(s);
+//}
+
+//------------------------------------------------------------
 
 //A. Pangram
 //int n = int.Parse(Console.ReadLine());
