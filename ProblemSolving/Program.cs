@@ -4,7 +4,62 @@ using Microsoft.VisualBasic;
 using System;
 using System.Collections.Generic;
 using System.Globalization;
+using System.Text;
 
+//141A - Amusing Joke
+char[] s = Console.ReadLine().ToCharArray();
+char[] t = Console.ReadLine().ToCharArray();
+char[] u = Console.ReadLine().ToCharArray();
+char[] v = s.Concat(t).ToArray();
+Array.Sort(v);
+Array.Sort(u);
+if (u.SequenceEqual(v))
+{
+    Console.WriteLine("YES");
+}
+else
+{
+    Console.WriteLine("NO");
+}
+
+//A. Puzzles
+//var n = Console.ReadLine().Split().Select(int.Parse).ToArray()[0];
+//var m = Console.ReadLine().Split().Select(int.Parse).OrderBy(s => s).ToArray();
+////Array.Sort(m);
+//var leastVal = m[n - 1] - m[0];
+//for (var i = 1; i <= m.Length - n; i++)
+//{
+//    leastVal = Math.Min(leastVal, m[n - 1 + i] - m[i]);
+//}
+//Console.WriteLine(leastVal);
+
+
+//----------------------------------------------------------
+
+//A. Anton and Polyhedrons
+//int num = int.Parse(Console.ReadLine());
+//int count = 0;
+//string s = "";
+//Dictionary<string, int> data = new Dictionary<string, int>()
+//        {
+//            { "Tetrahedron", 4 }, { "Cube", 6 },{ "Octahedron", 8 }, { "Dodecahedron", 12 }, { "Icosahedron", 20 }
+//        };
+//for (int i = 0; i < num; i++)
+//{
+//    s = Console.ReadLine();
+//    foreach (var item in data)
+//    {
+
+//        if(item.Key == s)
+//        {
+//            count = count + item.Value;
+//            break;
+//        }
+//    }
+//}
+//Console.WriteLine(count);
+
+//--------------------------------------------------
 
 //A - Games
 //int num = int.Parse(Console.ReadLine());
