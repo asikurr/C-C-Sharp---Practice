@@ -6,21 +6,104 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
 
+
+string[] s = Console.ReadLine().Split();
+
+
+int m = int.Parse(s[0]);
+int n = int.Parse(s[1]);
+
+for (int i = 1; i <= m; i++)
+{
+    for (int j = 1; j <= n; j++)
+    {
+        if ((i % 4 == 2 && j < n) || (i % 4 == 0 && j > 1))
+        {
+            Console.Write(".");
+        }
+
+        else
+        {
+            Console.Write("#");
+        }
+    }
+    Console.WriteLine();
+}
+//A. Fox And Snake
+//var n = Console.ReadLine().Split().Select(int.Parse).ToArray();
+//var symbol= "";
+//int row = n[0];
+
+//for (int i = 1; i <= n[0]; i++)
+//{
+//	for (int j = 1; j <= n[1]; j++)
+//	{
+//		if (row % 2 == 0)
+//		{
+			
+//			if (symbol.Length < n[1]-1)
+//			{
+//                symbol += ".";
+//			}
+//			else
+//			{
+//                symbol += "#";
+//                Console.Write(symbol);
+//				row--;
+//                symbol = "";
+//            }
+//		}
+//		else
+//		{
+//			symbol += "#";
+			
+//			if(!(n[0] % 2 == 0) && j == n[1])
+//			{
+//                Console.Write(symbol);
+//                row--;
+//				symbol = "";
+//			}
+//		}
+//	}
+//	Console.WriteLine();
+//}
+
+//----------------------------------------------------
+
+//A. Candies and Two Sisters
+//int t = int.Parse(Console.ReadLine()!);
+//for (int i = 1; i <= t; i++)
+//{
+//    int n = int.Parse(Console.ReadLine());
+//    if(n == 1  || n== 2)
+//    {
+//        Console.WriteLine(0);
+//    }
+//    else
+//    {
+//        Console.WriteLine( (n - 1) / 2);
+//    }
+//}
+
+//----------------------------------------------
+
 //141A - Amusing Joke
-char[] s = Console.ReadLine().ToCharArray();
-char[] t = Console.ReadLine().ToCharArray();
-char[] u = Console.ReadLine().ToCharArray();
-char[] v = s.Concat(t).ToArray();
-Array.Sort(v);
-Array.Sort(u);
-if (u.SequenceEqual(v))
-{
-    Console.WriteLine("YES");
-}
-else
-{
-    Console.WriteLine("NO");
-}
+//char[] s = Console.ReadLine().ToCharArray();
+//char[] t = Console.ReadLine().ToCharArray();
+//char[] u = Console.ReadLine().ToCharArray();
+//char[] v = s.Concat(t).ToArray();
+//Array.Sort(v);
+//Array.Sort(u);
+//if (u.SequenceEqual(v))
+//{
+//    Console.WriteLine("YES");
+//}
+//else
+//{
+//    Console.WriteLine("NO");
+//}
+
+//--------------------------------------------------------
 
 //A. Puzzles
 //var n = Console.ReadLine().Split().Select(int.Parse).ToArray()[0];
