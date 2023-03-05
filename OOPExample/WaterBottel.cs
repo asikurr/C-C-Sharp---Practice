@@ -11,6 +11,9 @@ namespace OOPExample
         public double WaterAmount;
         public string Color { get; set; }
         private double _capacity;
+        public readonly string _material = "poly";
+        public const double _bottolRadius = 5.5;
+        private List<string> data = new List<string>();
             public double Capacity {
             get
             {
@@ -22,10 +25,8 @@ namespace OOPExample
                 {
                     return _capacity;
                 }
-
             }
             set {
-
                 if (_capacity > 10)
                 {
                     _capacity =  40;
@@ -37,15 +38,24 @@ namespace OOPExample
             } 
         }
 
-        public WaterBottel()
+        public WaterBottel(double capacity):this(capacity, "green", "plastic")
         {
-            Capacity= 10;
-            Color = "Green";
         }
-        public WaterBottel(double capacity, string color) {
+        public WaterBottel(double capacity, string color, string material)
+        {
             Capacity = capacity;
             Color = color;
+            _material = material;
         }
+
+        ~WaterBottel()
+        {
+            data.Clear();
+        }
+        //public WaterBottel(double capacity, string color) {
+        //    Capacity = capacity;
+        //    Color = color;
+        //}
         public void AddWather(int Amount)
         {
             WaterAmount += Amount;
