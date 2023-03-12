@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\bin\Debug\net7.0\PrivatePropertyAccess.exe
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\bin\Debug\net7.0\PrivatePropertyAccess.deps.json
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\bin\Debug\net7.0\PrivatePropertyAccess.runtimeconfig.json
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\bin\Debug\net7.0\PrivatePropertyAccess.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\bin\Debug\net7.0\PrivatePropertyAccess.pdb
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\obj\Debug\net7.0\PrivatePropertyAccess.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\obj\Debug\net7.0\PrivatePropertyAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\obj\Debug\net7.0\PrivatePropertyAccess.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\obj\Debug\net7.0\PrivatePropertyAccess.AssemblyInfo.cs
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\obj\Debug\net7.0\PrivatePropertyAccess.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\obj\Debug\net7.0\PrivatePropertyAccess.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\obj\Debug\net7.0\refint\PrivatePropertyAccess.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\obj\Debug\net7.0\PrivatePropertyAccess.pdb
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\obj\Debug\net7.0\PrivatePropertyAccess.genruntimeconfig.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\PrivatePropertyAccess\obj\Debug\net7.0\ref\PrivatePropertyAccess.dll

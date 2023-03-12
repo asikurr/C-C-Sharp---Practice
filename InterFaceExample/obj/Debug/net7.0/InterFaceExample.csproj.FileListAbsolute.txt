@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\bin\Debug\net7.0\InterFaceExample.exe
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\bin\Debug\net7.0\InterFaceExample.deps.json
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\bin\Debug\net7.0\InterFaceExample.runtimeconfig.json
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\bin\Debug\net7.0\InterFaceExample.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\bin\Debug\net7.0\InterFaceExample.pdb
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\obj\Debug\net7.0\InterFaceExample.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\obj\Debug\net7.0\InterFaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\obj\Debug\net7.0\InterFaceExample.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\obj\Debug\net7.0\InterFaceExample.AssemblyInfo.cs
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\obj\Debug\net7.0\InterFaceExample.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\obj\Debug\net7.0\InterFaceExample.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\obj\Debug\net7.0\refint\InterFaceExample.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\obj\Debug\net7.0\InterFaceExample.pdb
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\obj\Debug\net7.0\InterFaceExample.genruntimeconfig.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\InterFaceExample\obj\Debug\net7.0\ref\InterFaceExample.dll

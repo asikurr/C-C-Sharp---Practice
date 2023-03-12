@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\bin\Debug\net7.0\AbastractAndInheritanceExample.exe
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\bin\Debug\net7.0\AbastractAndInheritanceExample.deps.json
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\bin\Debug\net7.0\AbastractAndInheritanceExample.runtimeconfig.json
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\bin\Debug\net7.0\AbastractAndInheritanceExample.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\bin\Debug\net7.0\AbastractAndInheritanceExample.pdb
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\obj\Debug\net7.0\AbastractAndInheritanceExample.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\obj\Debug\net7.0\AbastractAndInheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\obj\Debug\net7.0\AbastractAndInheritanceExample.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\obj\Debug\net7.0\AbastractAndInheritanceExample.AssemblyInfo.cs
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\obj\Debug\net7.0\AbastractAndInheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\obj\Debug\net7.0\AbastractAndInheritanceExample.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\obj\Debug\net7.0\refint\AbastractAndInheritanceExample.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\obj\Debug\net7.0\AbastractAndInheritanceExample.pdb
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\obj\Debug\net7.0\AbastractAndInheritanceExample.genruntimeconfig.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\AbastractAndInheritanceExample\obj\Debug\net7.0\ref\AbastractAndInheritanceExample.dll
