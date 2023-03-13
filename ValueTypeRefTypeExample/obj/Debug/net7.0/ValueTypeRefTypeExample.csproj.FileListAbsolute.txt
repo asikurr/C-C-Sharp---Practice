@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\bin\Debug\net7.0\ValueTypeRefTypeExample.exe
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\bin\Debug\net7.0\ValueTypeRefTypeExample.deps.json
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\bin\Debug\net7.0\ValueTypeRefTypeExample.runtimeconfig.json
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\bin\Debug\net7.0\ValueTypeRefTypeExample.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\bin\Debug\net7.0\ValueTypeRefTypeExample.pdb
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\obj\Debug\net7.0\ValueTypeRefTypeExample.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\obj\Debug\net7.0\ValueTypeRefTypeExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\obj\Debug\net7.0\ValueTypeRefTypeExample.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\obj\Debug\net7.0\ValueTypeRefTypeExample.AssemblyInfo.cs
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\obj\Debug\net7.0\ValueTypeRefTypeExample.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\obj\Debug\net7.0\ValueTypeRefTypeExample.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\obj\Debug\net7.0\refint\ValueTypeRefTypeExample.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\obj\Debug\net7.0\ValueTypeRefTypeExample.pdb
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\obj\Debug\net7.0\ValueTypeRefTypeExample.genruntimeconfig.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\ValueTypeRefTypeExample\obj\Debug\net7.0\ref\ValueTypeRefTypeExample.dll

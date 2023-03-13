@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\bin\Debug\net7.0\EnumExample.exe
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\bin\Debug\net7.0\EnumExample.deps.json
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\bin\Debug\net7.0\EnumExample.runtimeconfig.json
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\bin\Debug\net7.0\EnumExample.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\bin\Debug\net7.0\EnumExample.pdb
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\obj\Debug\net7.0\EnumExample.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\obj\Debug\net7.0\EnumExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\obj\Debug\net7.0\EnumExample.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\obj\Debug\net7.0\EnumExample.AssemblyInfo.cs
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\obj\Debug\net7.0\EnumExample.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\obj\Debug\net7.0\EnumExample.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\obj\Debug\net7.0\refint\EnumExample.dll
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\obj\Debug\net7.0\EnumExample.pdb
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\obj\Debug\net7.0\EnumExample.genruntimeconfig.cache
+C:\Users\hp\source\repos\C-C-Sharp---Practice\EnumExample\obj\Debug\net7.0\ref\EnumExample.dll
